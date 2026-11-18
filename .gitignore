@@ -1,0 +1,15 @@
+# build
+cfg1_out.c
+kernel_cfg.c
+kernel_cfg.h
+offset.h
+Makefile.depend
+asp.bin
+*.alf
+*.elf
+*.map
+*.a
+*.o
+*.srec
+*.syms
+*.timestamp
